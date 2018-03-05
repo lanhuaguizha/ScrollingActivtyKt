@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ScrollingActivtyKt.iml" filepath="$PROJECT_DIR$/ScrollingActivtyKt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CallbackFunResearch.iml" filepath="$PROJECT_DIR$/CallbackFunResearch.iml" />
+      <module fileurl="file://D:\AndroidStudioProjects\CallbackFunResearch\ScrollingActivtyKt.iml" filepath="D:\AndroidStudioProjects\CallbackFunResearch\ScrollingActivtyKt.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
